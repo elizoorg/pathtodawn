@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137067040728",
+    "project_id": "pathtodown",
+    "storage_bucket": "pathtodown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137067040728:android:3714232eb214649191ecad",
+        "android_client_info": {
+          "package_name": "com.elizoorg.pathtodown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7YVI7_WkrF7WX3zvuKqltsCWxyRgOvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
