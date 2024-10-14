@@ -8,7 +8,7 @@ namespace DevToDev
    public class DevToDevPostBuild
    {
        const string APP_TARGET_NAME = "Unity-iPhone";
-       [PostProcessBuildAttribute(1)]
+       [PostProcessBuild(1)]
        public static void OnPostprocessBuild(BuildTarget target, string pathToBuiltProject)
        {
            if (target != BuildTarget.iOS)
