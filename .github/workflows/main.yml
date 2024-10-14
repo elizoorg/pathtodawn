@@ -10,7 +10,6 @@ jobs:
       fail-fast: false
       matrix:
         targetPlatform:
-          - Android
           - iOS
     steps:
       - uses: actions/checkout@v4
