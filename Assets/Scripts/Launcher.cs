@@ -54,11 +54,11 @@ public class Launcher : MonoBehaviourPunCallbacks
         DTDAnalytics.Initialize("UwpAppID", config);
 #endif
 
-        DTDAnalytics.StartActivity();
+        //DTDAnalytics.StartActivity();
 
      
 
-        Connect();
+        //Connect();
     }
 
     private void OnDestroy()
